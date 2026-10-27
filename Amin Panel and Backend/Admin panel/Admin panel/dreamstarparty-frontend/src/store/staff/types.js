@@ -1,0 +1,8 @@
+export const GET_STAFF = "GET_STAFF";
+export const CREATE_STAFF = "CREATE_STAFF";
+export const EDIT_STAFF = "EDIT_STAFF";
+export const DELETE_STAFF = "DELETE_STAFF";
+export const TOGGLE_STAFF_STATUS = "TOGGLE_STAFF_STATUS";
+
+export const OPEN_STAFF_DIALOG = "OPEN_STAFF_DIALOG";
+export const CLOSE_STAFF_DIALOG = "CLOSE_STAFF_DIALOG";

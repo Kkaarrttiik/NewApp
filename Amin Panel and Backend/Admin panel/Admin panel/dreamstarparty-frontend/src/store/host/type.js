@@ -1,0 +1,2 @@
+export const GET_HOST = "GET_HOST";
+export const BLOCK_UNBLOCK_SWITCH = "BLOCK_UNBLOCK_SWITCH";

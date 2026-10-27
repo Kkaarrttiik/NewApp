@@ -1,0 +1,1 @@
+export const GET_COMMISSIONS = "GET_COMMISSIONS";

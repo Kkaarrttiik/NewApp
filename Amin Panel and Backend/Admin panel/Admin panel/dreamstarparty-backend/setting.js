@@ -1,0 +1,77 @@
+
+module.exports = {
+  "_id": "8ada92b38f4b452ed35815f4",
+  "googlePlaySwitch": true,
+  "stripeSwitch": true,
+  "isAppActive": true,
+  "freeDiamondForAd": 10,
+  "maxAdPerDay": 10,
+  "loginBonus": 20000,
+  "agoraCertificate": "",
+  "agoraKey": "",
+  "callCharge": 10,
+  "chatCharge": 0,
+  "currency": "$",
+  "googlePlayEmail": "GOOGLE PLAY EMAIL",
+  "googlePlayKey": "GOOGLE PLAY KEY",
+  "maxSecondForVideo": 60,
+  "minRcoinForCashOut": 1000,
+  "paymentGateway": [
+    "Bybit",
+    "Bank details",
+    "Paytm details"
+  ],
+  "privacyPolicyLink": "",
+  "privacyPolicyText": "You are 18 years old then you can use All-In-One App. We ask everyone on All-In-One to be kind and respectful, so every person can have a great experience. We value your privacy and personal information. If you want to use All-In-One App then you have to follow our Terms & Conditions and Privacy Policy.",
+  "rCoinForCashOut": 121,
+  "rCoinForDiamond": 5,
+  "referralBonus": 500,
+
+  "stripePublishableKey": "pk_test_51MrNpNGN45HJoheDzNEiN5BgqT0uowsawXa5WEbPDTj4bGgX5SsYdRifDkjvyESJ82JXYot6BXsoFHQ7CJxLCB9e00895DfoTS",
+  "stripeSecretKey": "",
+
+  "liveDurationTime": 0,
+  "pkEndTime": 30,
+  "gameCoin": [
+    100,
+    200,
+    300,
+    400,
+    500
+  ],
+  "isFake": true,
+  "femaleCallCharge": 20,
+  "maleCallCharge": 20,
+  "audioCallChargeMale": 10,
+  "audioCallChargeFemale": 10,
+  "vipDiamond": 100,
+  "updatedAt": "2025-04-28T03:54:34.562Z",
+  "game": [],
+  "gameRule": "GAME RULE",
+
+  "privateKey": {
+    "type": "service_account",
+    "project_id": "dream-star-f4768",
+    "private_key_id": "",
+    "private_key": "",
+    "client_email": "firebase-adminsdk-fbsvc@dream-star-f4768.iam.gserviceaccount.com",
+    "client_id": "110039709998549053476",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40dream-star-f4768.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  },
+
+  "roulette_gameRule": "",
+  "version": 1,
+  "agencyCommission": 15,
+  "minRcoinForCashOutAgency ": 5000,
+  "callReceiverPercent": 50,
+  "locationApiKey": "locationApiKey",
+  "minRcoinForCashOutAgency": 500,
+  "bothRandomCallRate": 10,
+  "femaleRandomCallRate": 10,
+  "maleRandomCallRate": 10,
+  "referralCoinBonus": 100
+};

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "53676988229",
+    "project_id": "dream-star-f4768",
+    "storage_bucket": "dream-star-f4768.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53676988229:android:3ba600598fe585f19b102c",
+        "android_client_info": {
+          "package_name": "com.dreamstar.dc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53676988229-4qvctlt8clhi3fkec1j68qpuv1snaksf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dreamstar.dc",
+            "certificate_hash": "b3966c840a3b364a4a0398dfd313a96b1b35bbea"
+          }
+        },
+        {
+          "client_id": "53676988229-qu8oflkq6a4l9k7ro16ufucipg42qiiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKb6hdBOU_AnXYKD9DZDFQtwyEup6P12c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53676988229-qu8oflkq6a4l9k7ro16ufucipg42qiiu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

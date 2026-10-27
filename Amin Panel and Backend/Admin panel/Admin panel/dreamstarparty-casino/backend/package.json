@@ -1,0 +1,33 @@
+{
+  "name": "roulette-game-backend",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.6",
+    "cors": "^2.8.5",
+    "debug": "~2.6.9",
+    "express": "^4.22.2",
+    "http": "^0.0.1-security",
+    "http-errors": "~1.6.3",
+    "mogoose": "^0.0.1-security",
+    "mongodb": "^6.3.0",
+    "mongoose": "^8.0.2",
+    "morgan": "^1.11.0",
+    "nodemon": "^3.0.2",
+    "socket.io": "^4.7.2",
+    "socket.io-client": "^4.8.1"
+  },
+  "overrides": {
+    "body-parser": "^1.20.3",
+    "qs": "^6.14.0",
+    "path-to-regexp": "^0.1.12",
+    "send": "^0.19.0",
+    "serve-static": "^1.16.2",
+    "cookie": "^0.7.0",
+    "on-headers": "^1.1.0"
+  }
+}
+

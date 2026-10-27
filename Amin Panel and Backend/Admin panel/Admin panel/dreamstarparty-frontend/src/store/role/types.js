@@ -1,0 +1,8 @@
+export const GET_ROLES = "GET_ROLES";
+export const CREATE_NEW_ROLE = "CREATE_NEW_ROLE";
+export const EDIT_ROLE = "EDIT_ROLE";
+export const DELETE_ROLE = "DELETE_ROLE";
+export const TOGGLE_ROLE_STATUS = "TOGGLE_ROLE_STATUS";
+
+export const OPEN_ROLE_DIALOG = "OPEN_ROLE_DIALOG";
+export const CLOSE_ROLE_DIALOG = "CLOSE_ROLE_DIALOG";

@@ -1,0 +1,24 @@
+﻿# Android build directories
+**/build/
+
+# Gradle cache directories
+.gradle/
+**/.gradle/
+
+# Android Studio / IntelliJ IDE
+.idea/
+**/.idea/
+
+# Local machine configuration
+local.properties
+
+# Generated APK and AAB files
+*.apk
+*.aab
+
+# VS Code settings (optional)
+.vscode/
+
+# Java crash and replay logs
+hs_err_pid*.log
+replay_pid*.log

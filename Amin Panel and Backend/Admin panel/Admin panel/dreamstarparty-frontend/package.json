@@ -1,0 +1,83 @@
+{
+  "name": "admin",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@babel/traverse": "^7.23.2",
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@mui/icons-material": "^6.1.1",
+    "@mui/material": "^6.1.1",
+    "@popperjs/core": "^2.10.2",
+    "@tabler/icons-react": "^3.37.1",
+    "antd": "^5.21.1",
+    "array-sort": "^1.0.0",
+    "axios": "^1.17.0",
+    "chart.js": "^4.1.1",
+    "cookie": "^0.7.0",
+    "date-fns": "^2.30.0",
+    "dayjs": "^1.10.7",
+    "feather-icons": "^4.29.1",
+    "framer-motion": "^11.11.11",
+    "html2canvas": "^1.4.1",
+    "idle-timer-manager": "0.0.5",
+    "jquery": "^3.6.0",
+    "jwt-decode": "^3.1.2",
+    "lottie-react": "^2.3.1",
+    "lottie-web": "^5.12.2",
+    "moment": "^2.29.4",
+    "multiselect-react-dropdown": "^2.0.25",
+    "perfect-scrollbar": "^1.5.5",
+    "react": "^18.3.1",
+    "react-advanced-cropper": "^0.19.4",
+    "react-chartjs-2": "^5.2.0",
+    "react-date-range": "^1.4.0",
+    "react-dom": "^18.3.1",
+    "react-dropzone": "^11.4.2",
+    "react-editext": "^4.2.1",
+    "react-icons": "^5.4.0",
+    "react-image-crop": "^11.0.1",
+    "react-infinite-scroll-component": "^6.1.0",
+    "react-redux": "^8.0.5",
+    "react-router-dom": "^6.16.0",
+    "react-select": "^5.7.2",
+    "react-toastify": "^8.1.0",
+    "redux": "^4.1.2",
+    "redux-persist": "^6.0.0",
+    "redux-thunk": "^2.4.1",
+    "svgaplayerweb": "^2.3.2",
+    "sweetalert": "^2.1.2",
+    "web-vitals": "^4.2.4"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.15.0",
+    "@testing-library/react": "^11.2.7",
+    "@types/react": "^18.3.1",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^6.0.2",
+    "eslint": "^8.54.0",
+    "eslint-plugin-react": "^7.37.0",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.9",
+    "vite": "^8.0.16"
+  },
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview --host",
+    "start": "vite --host"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
